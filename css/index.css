@@ -1,0 +1,44 @@
+
+.got{
+   
+height: 100vh;
+background-image: linear-gradient(rgba(0, 0, 0, 0.8) 0% 100%), url(../image/GOT-Background.webp);
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+
+
+
+}
+
+
+
+h1{
+    color: #ffff;
+    font-family: Impact;
+    font-size: 80px;
+    font-weight: 700 !important;
+}
+h3{
+    color: #ffff;
+    font-family: "Times New Roman";
+    font-size: 35px;
+    font-weight: 400 !important;
+}
+
+button{
+width: 250px;
+height: 80px;
+background-color: #0a0909;
+color: #48bf3b;
+border-color: #48bf3b;
+}
+button:hover{
+    color: #ffff;
+    background-color: #48bf3b;
+    transition: 0.5s ;
+    -webkit-transition: 0.5s ;
+    -moz-transition: 0.5s ;
+    -ms-transition: 0.5s ;
+    -o-transition: 0.5s ;
+}
